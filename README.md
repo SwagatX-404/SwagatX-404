@@ -1,3 +1,6 @@
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
 - 👋 Hi, I’m @SwagatX-404
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning MCA
