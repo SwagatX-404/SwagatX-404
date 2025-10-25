@@ -22,9 +22,4 @@ You can click the Preview link to take a look at your changes.
 Swagat Murmu: The Code-Crafting Visionary from Odisha
 🚀 MCA Mind | Full-Stack Force | Future-Tech Trailblazer
 
-From writing clean Java code in Android Studio to building next-gen real estate platforms with React, Redux, Node.js, and MongoDB — Swagat is not just a student, but a full-stack storm in the making. Obsessed with glassmorphism and driven by the urge to blend tech with impact, he’s experimenting with AI, fraud detection, blockchain smart contracts, and even AR/VR.
 
-Whether it’s Docker, Web3, SAP ABAP, or WordPress, he’s always on the hunt to upskill and outbuild. His GitHub — SwagatX-404 — speaks of hands-on hustle. His dreams? Modern portfolios, smart finance tools, and tech that actually matters.
-
-Swagat’s mantra?
-“Learn fast. Build faster. Dream bigger.”
